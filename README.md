@@ -4,7 +4,7 @@ Python Programming 8:00 to 10:00 Sir Ghufran KamalUddin
 <br>
 <br>
 <br>
-<P>This is my first Git Repository Authur Rehan Ullah</P>
+<P>Daily Classwork Code with Example</P>
 
 <br>
 <br>
