@@ -9,3 +9,4 @@ st.write(df)
 st.title("Final Project")
 # or
 df  #magic comments
+st.area_chart(df)
