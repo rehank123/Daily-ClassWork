@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 st.title("Welcome Bano Qabil")
@@ -10,3 +11,4 @@ st.title("Final Project")
 # or
 df  #magic comments
 st.area_chart(df)
+st.sidebar.bar_chart(df)
