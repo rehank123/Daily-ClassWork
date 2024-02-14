@@ -6,6 +6,6 @@ st.title("Welcome Bano Qabil")
 
 df=pd.DataFrame({'first':[1,2,3,4,5,],'second':[6,7,8,9,10]})
 st.write(df)
-
+st.title("Final Project")
 # or
 df  #magic comments
